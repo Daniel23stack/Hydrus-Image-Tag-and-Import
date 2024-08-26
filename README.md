@@ -32,6 +32,8 @@ Third, Hydrus Setup:
 Fourth, install the dependencies:
 
 ```bash
+python -m venv env
+
 npm install
 ```
 
